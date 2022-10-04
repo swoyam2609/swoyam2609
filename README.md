@@ -96,6 +96,3 @@ In this journey of mine, I have gained lots of valuable skills in c,c++, python,
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
