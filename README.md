@@ -9,7 +9,9 @@
 </a>
 <a href="https://instagram.com/self._._.sid" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
+
+
   
 
 
@@ -90,8 +92,10 @@ In this journey of mine, I have gained lots of valuable skills in c,c++, python,
 
 <br/>  
 
-  
-
+ ## Organizations
+ <div align="center">  
+<a href="https://www.linkedin.com/in/swoyam2609/" target="_blank"><img style="margin: 10px" src="https://imgur.com/dBqXl2L.png" alt="CSS3" height="200" /></a>  
+ </div>
 <br/>  
 
   
