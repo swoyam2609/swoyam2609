@@ -48,6 +48,10 @@ In this journey of mine, I have gained lots of valuable skills in c,c++, python,
 
 <br/>  
 
+<img src="https://activity-graph.herokuapp.com/graph?username=swoyam2609&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph">
+
+<br/>
+
 
 ## Languages and Tools  
 <div align="center">  
