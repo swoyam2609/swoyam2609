@@ -94,7 +94,7 @@ In this journey of mine, I have gained lots of valuable skills in c,c++, python,
 
  ## Organizations
  <div align="center">  
-<a href="https://www.linkedin.com/in/swoyam2609/" target="_blank"><img style="margin: 10px" src="https://imgur.com/dBqXl2L.png" alt="CSS3" height="200" /></a>  
+<a href="https://www.linkedin.com/in/swoyam2609/" target="_blank"><img style="margin: 10px" src="https://imgur.com/dBqXl2L.png" alt="CSS3" width="75%" /></a>  
  </div>
 <br/>  
 
