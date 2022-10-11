@@ -98,7 +98,11 @@ In this journey of mine, I have gained lots of valuable skills in c,c++, python,
  </div>
 <br/>  
 
-  
+ ## Badges X HacktoberFest-22
+ <div align=center>
+ 
+ [![image](https://holopin.io/api/user/board?user=swoyam2609)](https://holopin.io/@swoyam2609)
+ </div>
 
 <br/>  
 
