@@ -17,11 +17,13 @@
 
 
 ### Glad to see you here!  
-My greetings to the person reading this. I am Swoyam Siddharth Nayak, currently a first-year student at the prestigious International Institute of Information technology Bhubaneswar - CSE branch.
+Greetings,
 
- I aspire to explore, understand, and Excel in the fields of product management, app development, web development, and UI/UX design. With this goal set for me. I am working each day and trying to get a step closer to making it a reality.
+I am Swoyam Siddharth Nayak, a second-year student at the International Institute of Information Technology Bhubaneswar, pursuing a degree in Computer Science and Engineering. My aspiration is to become proficient in the fields of product management, app development, web development, and UI/UX design.
 
-In this journey of mine, I have gained lots of valuable skills in c,c++, python, HTML, CSS, and Figma. I plan to learn much more in the near future and keep on improving myself.  
+To achieve this goal, I am continuously working towards enhancing my skills and expanding my knowledge. I have gained expertise in several programming languages such as C, C++, Python, HTML, and CSS, and have hands-on experience with Figma for UI/UX design. I am committed to expanding my skill set and keeping myself updated with the latest trends and technologies in my field.
+
+Thank you for your time. 
   
 
 <br/>  
