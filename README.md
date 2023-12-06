@@ -1,5 +1,5 @@
 # 💫 About Me:
-Current position: Junior Flutter Developer at ezTruck logistics.<br>Seeking collaboration on cross-platform Android development projects using Flutter.<br>Looking for assistance and guidance with Flutter development.<br>Currently focusing on learning Flutter development.<br>Able to provide suggestions and insights in various domains.<br>Fun fact: Average screen time exceeds 14 hours per day.
+<br>Seeking collaboration on cross-platform Android development projects using Flutter.<br>Looking for assistance and guidance with Flutter development.<br>Currently focusing on learning Flutter development.<br>Able to provide suggestions and insights in various domains.<br>Fun fact: Average screen time exceeds 14 hours per day.
 
 
 ## 🌐 Socials:
