@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Seeking collaboration on cross-platform Android development projects using Flutter.<br>Looking for assistance and guidance with Flutter development.<br>Currently focusing on learning Flutter development.<br>Able to provide suggestions and insights in various domains.<br>Fun fact: Average screen time exceeds 14 hours per day.
+Hello, I'm Swoyam Siddharth Nayak, a Final year Computer Science Engineering student at IIIT Bhubaneswar. Currently, I'm interning at Oracle NetSuite, where I'm honing my skills in NLP and LLP based solutions. My background includes experience as a Junior Flutter Developer at EzTruck. I was also the Tech Secretary at IIIT Bhubaneswar, actively organizing tech events and hackathons. My passion lies in full-stack development, mobile app creation, and leading innovative projects.
 
 
 ## 🌐 Socials:
