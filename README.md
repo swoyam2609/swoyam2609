@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello, I'm Swoyam Siddharth Nayak, a Final year Computer Science Engineering student at IIIT Bhubaneswar. Currently, I'm interning at Oracle NetSuite, where I'm honing my skills in NLP and LLP based solutions. My background includes experience as a Junior Flutter Developer at EzTruck. I was also the Tech Secretary at IIIT Bhubaneswar, actively organizing tech events and hackathons. My passion lies in full-stack development, mobile app creation, and leading innovative projects.
+Hello, I'm Swoyam Siddharth Nayak, a final year Computer Science Engineering student at IIIT Bhubaneswar. I recently completed an internship at Oracle NetSuite, where I honed my skills in NLP and LLP-based solutions. My background includes experience as a Junior Flutter Developer at EzTruck.
+I was also the Tech Secretary at IIIT Bhubaneswar, actively organizing tech events and hackathons. My passion lies in full-stack development, mobile app creation, and leading innovative projects.
 
 
 ## 🌐 Socials:
